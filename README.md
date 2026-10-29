@@ -1,11 +1,11 @@
 # DBMS_OnlineFoodStore
-NomNom is a database-driven online food ordering system built with HTML, CSS, PHP, and MySQL. It features user registration, authentication, food ordering, order management, billing, and an admin dashboard.
+NomNom is a database-driven online food ordering system built with HTML, CSS, PHP, and MySQL. It features user registration, authentication, food ordering, order management, billing, and an admin dashboard.This repository contains the original project documentation and screenshots for NomNom, a database-driven online food ordering application developed as an academic project. The original source code is currently unavailable.
 
 ## Project Overview
 
 NomNom is a database-driven online food ordering web application designed to simplify restaurant menu browsing, customer registration, and food order management.
 
-The application integrates a web-based user interface with a MySQL database to store and manage customer information, food items, and orders.
+The application integrates a web-based user interface with a MySQL database to store and manage customer information, food items, and orders.This repository contains the original project documentation and screenshots for NomNom, a database-driven online food ordering application developed as an academic project. The original source code is currently unavailable.
 
 ## Technologies Used
 
